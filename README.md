@@ -1,1 +1,1 @@
-ini adalah sebuah database degan SQL Server untuk Database Ojek Online yang berisi 6 tabel yaitu driver, vehicle, customer, detTransaction, transaction, trip. Di dalam syntax juga ada procedure dan trigger untuk analisis dan otomatisasi data.
+ini adalah sebuah database dengan SQL Server untuk Database Ojek Online yang berisi 6 tabel yaitu driver, vehicle, customer, detTransaction, transaction, trip. Di dalam syntax ada DDL, DML juga ada procedure dan trigger untuk analisis dan otomatisasi data
